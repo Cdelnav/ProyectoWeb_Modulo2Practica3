@@ -1,0 +1,11 @@
+- Cambiar el color del Navbar. <--ok
+- Alinear los items del Navbar a la derecha.  <--ok
+- Buscar imagenes que superen los 1000px de ancho para el carousel.<--ok 
+- De ser necesario modificar los colores de las letras del corusel.<--ok
+- Corregir el margin y/o padding de cada título de sección ya que el navbar está flotante.<--ok
+- Ya está enlazado el item de menú "Servicios", debe enlazar los faltantes. <--ok
+- Personalizar las cards de servicios.<--ok 
+- Aplicar los breakpoint en la grilla de los servicios. <--ok
+- Escribir texto en la sección de nosotros.
+- Crear el formulario de contáctenos. <--ok +-
+- Mostrar al menos 3 imágenes en la galería.
